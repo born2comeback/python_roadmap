@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+{% block content %}
+<body style="background-color:LightSlateGray;">
+<div class="jumbotron bg-dark text-white mt-n3 py-4">
+  <div class="container text-center font-weight-bold">
+      <h1 class="display-4 bg-dark text-white text-center font-weight-bold" style="font-size:5vw">Python road</h1>
+      <p style="padding-bottom: 0; font-size:2.8vw; font-family: Courier New; font-style: italic; "><i>Python back-end developer roadmap</i></p>
+  </div>
+</div>
+
+<div class="card  bg-light border-primary ml-2 mt-2" >
+  <div class="row no-gutters">
+    <div class="col-md-7">
+        <h1 class="card-title ml-5 mt-4" >Why Python?</h1>
+        <p class="card-text ml-5 mr-3 mt-4" style="font-size: 22px;">
+        This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+            This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+            This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+            This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+            This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+            This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
+        </p>
+
+        <p class="card-text ml-5 mb-4">
+            <small class="text-muted" >Last updated 3 days ago</small>
+        </p>
+    </div>
+    <div class="col-md-5">
+      <div class="card-body">
+        <img class="card-img-top mt-4 pt-5" src="{{ url_for("static", filename="py2.jpg") }}" alt="ops image" with=800 height=380>
+
+      </div>
+    </div>
+  </div>
+</div>
+    </body>
+{% endblock content %}

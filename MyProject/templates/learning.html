@@ -1,0 +1,123 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<body style="background-color:LightSlateGray;">
+{% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+              {% for category, message in messages %}
+                <div class="alert alert-{{ category }}">
+                 <h1 style= " text-align: center; font-size:3vw">{{ message }}</h1>
+
+                </div>
+              {% endfor %}
+            {% endif %}
+          {% endwith %}
+  <h1 style= "font-size: 50px; margin: 20px; text-align: center; color: yellow; font-family: Times New Roman; font-style: italic; font-weight:bold">Let's start a jorney!</h1>
+
+<div class="ml-4 mt-4 mr-3  ">
+<div class="card-deck ">
+  <div class="card bg-light">
+    <img src="{{ url_for("static", filename="py4.jpg") }}" alt="ops image" with=800 height=300>
+    <div class="card-body">
+      <h5 class="card-title" style= "color: SteelBlue; font-size: 28px">Why Python?</h5>
+      <p class="card-text" style= "font-size: 23px">This a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    </div>
+    <div class="card-footer">
+      <h5 class="text-info">
+          <a class="ml-2 text-info" href="{{ url_for('article') }}">More info? Click here</a>
+        </h5>
+    </div>
+  </div>
+  <div class="card bg-light">
+    <img src="{{ url_for("static", filename="py5.jpg") }}" alt="ops image" with=800 height=300>
+    <div class="card-body">
+      <h5 class="card-title" style= "color: SteelBlue; font-size: 28px">Why Python?</h5>
+      <p class="card-text" style= "font-size: 23px">This a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    </div>
+    <div class="card-footer">
+      <h5 class="text-info">
+          <a class="ml-2 text-info" href="{{ url_for('article') }}">More info? Click here</a>
+        </h5>
+    </div>
+  </div>
+  <div class="card bg-light">
+    <img src="{{ url_for("static", filename="py7.jpg") }}" alt="ops image" with=800 height=300>
+    <div class="card-body">
+      <h5 class="card-title" style= "color: SteelBlue; font-size: 28px">Why Python?</h5>
+      <p class="card-text" style= "font-size: 23px">This a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    </div>
+    <div class="card-footer">
+      <h5 class="text-info">
+          <a class="ml-2 text-info" href="{{ url_for('article') }}">More info? Click here</a>
+        </h5>
+    </div>
+  </div>
+</div>
+  </div>
+<div class="ml-4 mt-4 mr-3">
+
+
+<div class="card-deck">
+  <div class="card bg-light">
+    <img src="{{ url_for("static", filename="py2.jpg") }}" alt="ops image" with=800 height=300>
+    <div class="card-body">
+      <h5 class="card-title" style= "color: SteelBlue; font-size: 28px">Why Python?</h5>
+      <p class="card-text" style= "font-size: 23px">This a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    </div>
+    <div class="card-footer">
+      <h5 class="text-info">
+          <a class="ml-2 text-info" href="{{ url_for('article') }}">More info? Click here</a>
+        </h5>
+    </div>
+  </div>
+  <div class="card bg-light">
+    <img src="{{ url_for("static", filename="py6.jpg") }}" alt="ops image" with=800 height=300>
+    <div class="card-body">
+      <h5 class="card-title" style= "color: SteelBlue; font-size: 28px">Why Python?</h5>
+      <p class="card-text" style= "font-size: 23px">This a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    </div>
+    <div class="card-footer">
+      <h5 class="text-info">
+          <a class="ml-2 text-info" href="{{ url_for('article') }}">More info? Click here</a>
+        </h5>
+    </div>
+  </div>
+  <div class="card bg-light">
+    <img src="{{ url_for("static", filename="py.jpeg") }}" alt="ops image" with=800 height=300>
+    <div class="card-body">
+      <h5 class="card-title" style= "color: SteelBlue; font-size: 28px">Why Python?</h5>
+      <p class="card-text" style= "font-size: 23px">This a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer. This a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    </div>
+    <div class="card-footer">
+      <h5 class="text-info">
+          <a class="ml-2 text-info" href="{{ url_for('article') }}">More info? Click here</a>
+        </h5>
+    </div>
+  </div>
+</div>
+  </div>
+
+
+<main role="main" class="container">
+      <div class="row">
+        <div class="col-md-10 mt-4">
+{% for post in posts %}
+        <article style="background-color:AliceBlue" class="media content-section">
+          <img class="rounded-circle article-img" src="{{ url_for('static', filename='profile_pics/' + post.author.image_file) }}">
+          <div class="media-body">
+            <div class="article-metadata">
+              <a class="mr-2" href="#">{{ post.author.username }}</a>
+              <small class="text-muted">{{ post.date_posted.strftime('%Y-%m-%d') }}</small>
+            </div>
+            <h2><a class="article-title" href="{{ url_for('post', post_id=post.id) }}">{{ post.title }}</a></h2>
+            <p class="article-content">{{ post.content }}</p>
+          </div>
+        </article>
+    {% endfor %}
+
+        </div>
+      </div>
+</main>
+
+</body>
+{% endblock content %}

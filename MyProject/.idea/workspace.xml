@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05bf2e9a-33b5-4fb1-a6dc-aa0969a4812c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/MyProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roadmap.py" beforeDir="false" afterPath="$PROJECT_DIR$/roadmap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/learning.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/learning.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roadmap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../site.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/lion.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/me.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/profile_pics/07db5dc8b713cf02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/profile_pics/33caa8607f674546.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/profile_pics/3eeda068fac61ec1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/profile_pics/458913cf6c8f4768.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/profile_pics/54a64db4c3f4bc97.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/profile_pics/63d8515fa06fa975.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/profile_pics/75f25ad0dc6ccf7f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/profile_pics/8aa4f57a33eead8d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/profile_pics/902c229a8275dfd7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/profile_pics/9d1935efcc7b6cbb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/profile_pics/a06c6e45316ff2d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/profile_pics/ac775ce9d376c4f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/profile_pics/default.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/profile_pics/me.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/py.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/py2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/py3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/py4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/py5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/py6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/py7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/account.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/article.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/create_post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/learning.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/register.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1jVwDWbZYjkpj9aKhan9Hz67wyk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.roadmap (1)">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="roadmap (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/roadmap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="roadmap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Roadmap" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Roadmap/roadmap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="roadmap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/roadmap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.roadmap (1)" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.roadmap" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.roadmap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05bf2e9a-33b5-4fb1-a6dc-aa0969a4812c" name="Default Changelist" comment="" />
+      <created>1603902447833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603902447833</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="127" key="#Inspections" timestamp="1605722422235">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="406" y="127" key="#Inspections/0.23.1440.803@0.23.1440.803" timestamp="1605722422235" />
+    <state x="844" y="164" key="#Servers" timestamp="1605695783970">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="844" y="164" key="#Servers/0.23.1440.803@0.23.1440.803" timestamp="1605695783970" />
+    <state x="447" y="320" key="#Updates" timestamp="1605798315373">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state x="447" y="320" key="#Updates/0.23.1440.803@0.23.1440.803" timestamp="1605798315373" />
+    <state x="315" y="303" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605733702637">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="315" y="303" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1605733702637" />
+    <state x="645" y="197" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.803@0.23.1440.803" timestamp="1605713291891" />
+    <state width="1419" height="343" key="GridCell.Tab.0.bottom" timestamp="1606497230252">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="709" height="330" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1605782428226" />
+    <state width="1419" height="343" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1606497230252" />
+    <state width="1419" height="343" key="GridCell.Tab.0.center" timestamp="1606497230250">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="709" height="330" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1605782428224" />
+    <state width="1419" height="343" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1606497230250" />
+    <state width="1419" height="343" key="GridCell.Tab.0.left" timestamp="1606497230250">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="709" height="330" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1605782428223" />
+    <state width="1419" height="343" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1606497230250" />
+    <state width="1419" height="343" key="GridCell.Tab.0.right" timestamp="1606497230251">
+      <screen x="0" y="23" width="1440" height="803" />
+    </state>
+    <state width="709" height="330" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1605782428225" />
+    <state width="1419" height="343" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1606497230251" />
+    <state x="262" y="45" key="SettingsEditor" timestamp="1605733503411">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="262" y="45" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1605733503411" />
+    <state x="262" y="63" key="SettingsEditor/0.23.1440.803@0.23.1440.803" timestamp="1605722392662" />
+    <state x="509" y="145" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605698928409">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="509" y="145" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1605698928409" />
+  </component>
+</project>
